@@ -2,13 +2,17 @@
 
 1.CÁCH CHẠY
 Bước 1: Mở Visual Studio Code (VS Code).
+
 Bước 2: Chọn File → Open Folder, mở thư mục CD-CNTT18A_NguyenHoangHai
+
 Bước 3: Mở Terminal → New Terminal để mở cửa sổ dòng lệnh.
+
 Bước 4: Kiểm tra phiên bản Node.js bằng lệnh:
 node -v
 Kết quả: v26.13.0.
 npm -v
 Kết quả: 11.20.0.
+
 <img width="366" height="106" alt="image" src="https://github.com/user-attachments/assets/a2faeee6-a9ba-467e-95a6-18d49165bba2" />
 
 Bước 5: Tạo tập tin hello.js .
@@ -19,6 +23,7 @@ console.log("Da cai thanh cong");
 
 Bước 6: Nhập lệnh sau để chạy chương trình:
 node hello.js
+
 <img width="432" height="119" alt="image" src="https://github.com/user-attachments/assets/6c74e53c-810d-4363-b33d-6692cf346e13" />
 
 
