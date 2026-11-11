@@ -8,9 +8,13 @@ Bước 2: Chọn File → Open Folder, mở thư mục CD-CNTT18A_NguyenHoangHa
 Bước 3: Mở Terminal → New Terminal để mở cửa sổ dòng lệnh.
 
 Bước 4: Kiểm tra phiên bản Node.js bằng lệnh:
+
 node -v
+
 Kết quả: v26.13.0.
+
 npm -v
+
 Kết quả: 11.20.0.
 
 <img width="366" height="106" alt="image" src="https://github.com/user-attachments/assets/a2faeee6-a9ba-467e-95a6-18d49165bba2" />
