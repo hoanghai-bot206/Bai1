@@ -15,10 +15,14 @@ Kết quả: 11.20.0.
 
 <img width="366" height="106" alt="image" src="https://github.com/user-attachments/assets/a2faeee6-a9ba-467e-95a6-18d49165bba2" />
 
-Bước 5: Tạo tập tin hello.js .
+Bước 5: Tạo tập tin hello.js.
+
 Nhập nội dung chương trình:
+
 console.log("Hello Node.js!");
+
 console.log("Chao mung den voi bai hoc Node.js va MongoDB!");
+
 console.log("Da cai thanh cong");
 
 Bước 6: Nhập lệnh sau để chạy chương trình:
