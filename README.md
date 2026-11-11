@@ -3,7 +3,7 @@
 1.CÁCH CHẠY
 Bước 1: Mở Visual Studio Code (VS Code).
 
-Bước 2: Chọn File → Open Folder, mở thư mục CD-CNTT18A_NguyenHoangHai
+Bước 2: Tạo Folder
 
 Bước 3: Mở Terminal → New Terminal để mở cửa sổ dòng lệnh.
 
